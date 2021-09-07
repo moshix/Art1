@@ -1,3 +1,6 @@
+[![Discord](https://img.shields.io/discord/423767742546575361.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)
+<a href=" https://github.com/moshix/mvs/blob/master/codenotary.com"><img src="https://raw.githubusercontent.com/moshix/mvs/master/secured-by-immudb.svg" width="109px;"/></a>
+
 # Art1
 
 Art1 is a program that was written by Richard Williams in 1968. Its purpose was to give artists access to an IBM System/360 Model 40 computer at the University of New Mexico in order to explore artistic and aesthetic uses of the machine. Williams, an engineer at Sandia National Laboratories, collaborated with Charles Mattox, Frederick Hammersley, Kathernine Nash, and others. This early period of computer art is described in Patrick Frank's recent book, "Sharing Code: Art1, Frederick Hammersley and the Dawn of Computer Art." [1] Art1 was disseminated to other institutions, especially by the efforts of Kathernine Nash, including to the University of Minnesota, the Computer Arts Society in the UK, the Univeristy of Puerto Rico, and the University of Iowa. Williams' description of Art1 appears in Jasia Reichardt's 1971 book, "The Computer in Art." [2]
